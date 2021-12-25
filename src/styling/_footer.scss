@@ -1,0 +1,12 @@
+.footer{
+    width: fit-content;
+    margin-left: 4%;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    justify-content: space-between;
+    padding: 2%;
+}
+.footer img{
+ width: 40%;
+ height: 100%;
+}

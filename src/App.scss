@@ -8,5 +8,7 @@
 .App{
     @include Mobile{
         @import "./styling/header";
+        @import "./styling/body";
+        @import "./styling/footer";
     }
 }
