@@ -1,0 +1,19 @@
+img {
+  width: 100%;
+  height: auto;
+}
+.header {
+  display: flex;
+}
+.logo{
+    margin: 1.2% 0 0 1.2%;
+}
+.right {
+  display: flex;
+  justify-content: flex-end;
+}
+.right img {
+  width: 23%;
+  height: auto;
+  padding: 4%;
+}
